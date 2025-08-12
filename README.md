@@ -49,7 +49,7 @@ chmod +x install.sh
 Clona este repositorio o descarga los archivos.
 
 Ejecuta el honeypot especificando la URL a clonar:
-python3 honeypot.py --url "https://ejemplo.com" --port 8080
+python3 queso.py --url "https://ejemplo.com" --port 8080
 
 Abre en el navegador:
 http://localhost:8080
